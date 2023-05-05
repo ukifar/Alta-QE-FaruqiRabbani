@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_Soal_QA10.iml" filepath="$PROJECT_DIR$/OOP_Soal_QA10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem1_Calculate_Perimeter&amp;Area/Soal1.iml" filepath="$PROJECT_DIR$/Problem1_Calculate_Perimeter&amp;Area/Soal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem2_Calculate_Volume/Soal2.iml" filepath="$PROJECT_DIR$/Problem2_Calculate_Volume/Soal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem3_Calculator_Program/Soal3.iml" filepath="$PROJECT_DIR$/Problem3_Calculator_Program/Soal3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem4_Calculate_Shipping_Costs/Soal4.iml" filepath="$PROJECT_DIR$/Problem4_Calculate_Shipping_Costs/Soal4.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basic_Programming.iml" filepath="$PROJECT_DIR$/Basic_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem1_Calculate_Area_of_Triangle/Soal1.iml" filepath="$PROJECT_DIR$/Problem1_Calculate_Area_of_Triangle/Soal1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem2_Value_Convertion/Soal2.iml" filepath="$PROJECT_DIR$/Problem2_Value_Convertion/Soal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem3_Factorial_of_a_Number/Soal3.iml" filepath="$PROJECT_DIR$/Problem3_Factorial_of_a_Number/Soal3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem4_Prime_Number/Soal4.iml" filepath="$PROJECT_DIR$/Problem4_Prime_Number/Soal4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem5_Palindrome/Soal5.iml" filepath="$PROJECT_DIR$/Problem5_Palindrome/Soal5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem6_Draw_XYZ/Soal6.iml" filepath="$PROJECT_DIR$/Problem6_Draw_XYZ/Soal6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem7_Mean/Soal7.iml" filepath="$PROJECT_DIR$/Problem7_Mean/Soal7.iml" />
+    </modules>
+  </component>
+</project>
